@@ -2,6 +2,6 @@
 
 Just a simple sentiment analyser written in Node.js & Brain.js.
 
-# Run
+## Run
 
-Just run  `npm install && npm start` to configure and start the application in the console.
+Just run  `npm install && npm start` to configure and start the application in the shell.
